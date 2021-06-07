@@ -1,1 +1,1 @@
-console.log("Vous pouvez commencer à m'éditer");
+console.log('Placer les exercices ici')
